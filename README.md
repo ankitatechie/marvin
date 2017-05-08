@@ -22,7 +22,7 @@ versions are welcome.
 
 In your Terminal window, copy and paste the command below, then press return.
 ```sh
-curl --silent https://raw.githubusercontent.com/ravisuhag/marvin/master/mac | sh 2>&1 | tee ~/marvin.log
+curl --silent https://raw.githubusercontent.com/ankitatechie/marvin/master/mac | sh 2>&1 | tee ~/marvin.log
 ```
 The script itself is available in this repo for you to review if you want to see what it does and how it works.
 
@@ -33,7 +33,7 @@ It is highly recommended to run the script regularly to keep your computer up to
 Your last marvin run will be saved to `~/marvin.log`.
 Read through it to see if you can debug the issue yourself.
 If not, copy the lines where the script failed into a
-[new GitHub Issue](https://github.com/ravisuhag/marvin/issues/new) for us.
+[new GitHub Issue](https://github.com/ankitatechie/marvin/issues/new) for us.
 Or, attach the whole log file as an attachment.
 
 ## What it sets up
@@ -210,7 +210,7 @@ brew install shellcheck
 
 Thank you, [contributors]!
 
-[contributors]: https://github.com/ravisuhag/marvin/graphs/contributors
+[contributors]: https://github.com/ankitatechie/marvin/graphs/contributors
 
 ## License
 
